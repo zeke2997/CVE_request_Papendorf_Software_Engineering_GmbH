@@ -1,5 +1,4 @@
-# Vulnerability Descr
-iption
+# Vulnerability Description
 
 ## Unauthenticated Access to Sensitive PV Monitoring Data (CWE-284: Improper Access Control)
 
